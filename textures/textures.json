@@ -1,0 +1,163 @@
+{
+    "texture_types":[
+        {
+            "name"      : "button",
+            "animated"  : false,
+            "width"     : 700,
+            "height"    : 150
+        },
+        {
+            "name"      : "piece",
+            "animated"  : false,
+            "width"     : 100,
+            "height"    : 100
+        },
+        {
+            "name"      : "board",
+            "animated"  : false,
+            "width"     : 800,
+            "height"    : 800
+        },
+        {
+            "name"      : "player texture",
+            "animated"  : false,
+            "width"     : 150,
+            "height"    : 150
+        },
+        {
+            "name"      : "bot difficulty",
+            "animated"  : false,
+            "width"     : 150,
+            "height"    : 150
+        },
+        {
+            "name"      : "bot difficulty button",
+            "animated"  : false,
+            "width"     : 150,
+            "height"    : 75
+        },
+        {
+            "name"      : "player type button",
+            "animated"  : false,
+            "width"     : 150,
+            "height"    : 75
+        },
+        {
+            "name"      : "versus",
+            "animated"  : false,
+            "width"     : 50,
+            "height"    : 50
+        },
+        {
+            "name"      : "win message",
+            "animated"  : false,
+            "width"     : 800,
+            "height"    : 200
+        },
+        {
+            "name"      : "piece animation",
+            "animated"  : true,
+            "width"     : 100,
+            "height"    : 100
+        }
+    ],
+    "textures":[
+        {
+            "name"      : "button up",
+            "type"      : "button"
+        },
+        {
+            "name"      : "button down",
+            "type"      : "button"
+        },
+        {
+            "name"      : "piece white",
+            "type"      : "piece"
+        },
+        {
+            "name"      : "piece black",
+            "type"      : "piece"
+        },
+        {
+            "name"      : "queen white",
+            "type"      : "piece"
+        },
+        {
+            "name"      : "queen black",
+            "type"      : "piece"
+        },
+        {
+            "name"      : "human",
+            "type"      : "player texture"
+        },
+        {
+            "name"      : "bot easy",
+            "type"      : "player texture"
+        },
+        {
+            "name"      : "bot supreme",
+            "type"      : "player texture"
+        },
+        {
+            "name"      : "difficulty 1",
+            "type"      : "bot difficulty"
+        },
+        {
+            "name"      : "difficulty 2",
+            "type"      : "bot difficulty"
+        },
+        {
+            "name"      : "difficulty 3",
+            "type"      : "bot difficulty"
+        },
+        {
+            "name"      : "difficulty 4",
+            "type"      : "bot difficulty"
+        },
+        {
+            "name"      : "button add up",
+            "type"      : "bot difficulty button"
+        },
+        {
+            "name"      : "button add down",
+            "type"      : "bot difficulty button"
+        },
+        {
+            "name"      : "button sub up",
+            "type"      : "bot difficulty button"
+        },
+        {
+            "name"      : "button sub down",
+            "type"      : "bot difficulty button"
+        },
+        {
+            "name"      : "button swap player type up",
+            "type"      : "player type button"
+        },
+        {
+            "name"      : "button swap player type down",
+            "type"      : "player type button"
+        },
+        {
+            "name"      : "versus",
+            "type"      : "versus"
+        },
+        {
+            "name"      : "white win",
+            "type"      : "win message"
+        },
+        {
+            "name"      : "black win",
+            "type"      : "win message"
+        },
+        {
+            "name"      : "game board",
+            "type"      : "board"
+        },
+        {
+            "name"      : "queen animation",
+            "type"      : "piece animation",
+            "frame_count": "34"
+        }
+    ]
+}
